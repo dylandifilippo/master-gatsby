@@ -2,6 +2,9 @@ var plugins = [{
       plugin: require('/Users/macbookpro/code/dylandifilippo/Wes Bos/master-gatsby-master/starter-files/gatsby/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
+      plugin: require('/Users/macbookpro/code/dylandifilippo/Wes Bos/master-gatsby-master/starter-files/gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
       plugin: require('/Users/macbookpro/code/dylandifilippo/Wes Bos/master-gatsby-master/starter-files/gatsby/node_modules/gatsby-source-sanity/gatsby-ssr'),
       options: {"plugins":[],"projectId":"pbhcs4hm","dataset":"production","watchMode":true,"token":"sksh0B0M4SI3uW1RGyXQdIUYvcpZOOB6SKBr42n9bAaFpgRJH7Jp5HkAi4R5NxAV1vClrLfmqH2K0Vx27Q1OgZPWm3n5tmFUGiRwsmzAUGVFThKCa8zZI0MqKkkxLT9XZIBzBJfzZiO4wzoKTHrTz12uzZjA1OMLwCRN3JijXZien5xcopyJ"},
     },{
